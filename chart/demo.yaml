@@ -7,7 +7,7 @@ replicaCount: 1
 image:
   repository: gru.ocir.io/grgh3wjdztnp/demo
   pullPolicy: IfNotPresent
-  # Overrides the image tag whose default is the chart appVersion.
+  # dsasdaads Overrides the image tag whose default is the chart appVersion.
 
 service:
   type: LoadBalancer
